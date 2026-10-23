@@ -1,0 +1,3 @@
+-- 01_schema.sql
+-- Crownfield Eye Hospital database: shared schema and sample data
+-- Author: Guilherme Carvalho
