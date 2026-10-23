@@ -1,0 +1,3 @@
+-- 02_individual_queries.sql
+-- My six queries for Part C
+-- Author: Guilherme Carvalho
