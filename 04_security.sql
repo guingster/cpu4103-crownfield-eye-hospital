@@ -1,0 +1,3 @@
+-- 04_security.sql
+-- Roles, privileges and data protection for Part D
+-- Author: Guilherme Carvalho
