@@ -1,3 +1,0 @@
--- 03_procedure_and_trigger.sql
--- My stored procedure and trigger for Part C
--- Author: Guilherme Carvalho
